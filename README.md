@@ -1,4 +1,4 @@
-🎨Leadership Management System(MYSQL)
+### 🎨Leadership Management System(MYSQL)
 
 The Leadership Management System is a structured SQL-based solution designed to streamline the management of leadership activities within an organization. It helps track and manage leaders, projects, tasks, team members, meetings, and time logs. This system offers a centralized way to monitor project progress, allocate responsibilities, and analyze team performance through organized data and automated queries.
 Whether you're overseeing a small team or managing large-scale leadership programs, this database provides the foundation for better visibility, accountability, and data-driven decision-making.
