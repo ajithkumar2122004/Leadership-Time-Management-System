@@ -61,7 +61,7 @@ The `leadershipmgtsys.sql` file includes:
 3. **Test some queries**
    ```sql
    SELECT * FROM Leaders;
-   CALL Your_Stored_Procedure(); -- if any are added
+   CALL call RunLeadershipMgtQueries(); -- if any are added
    ```
 
 ---
