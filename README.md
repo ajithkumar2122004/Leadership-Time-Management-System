@@ -48,8 +48,7 @@ Follow the steps below to set up and run the **Leadership Management System (MyS
 
 1. **Clone or Download the Repository**
    ```bash
-   
-https://github.com/ajithkumar2122004/Leadership-Time-Management-System
+   https://github.com/ajithkumar2122004/Leadership-Time-Management-System
     
 
 2.Create the Database
