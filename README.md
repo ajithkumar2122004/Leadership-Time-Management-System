@@ -86,6 +86,4 @@ The `leadershipmgtsys.sql` file includes:
 
 For feedback or collaboration, feel free to reach out: [ajithkumar2122004@gmail.com]
 
----
-
 Would you like this saved as a downloadable `README.md` file, or copied directly into your GitHub repo?
